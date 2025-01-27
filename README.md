@@ -1,4 +1,5 @@
 # Trabajo clases 07
+LUIS SANCHEZ , JOEL DOMINGUEZ, ANDREA CRIOLLO
 ## Segundo bimestre
 
 ## Áreas de las Ciencias de la Computación
